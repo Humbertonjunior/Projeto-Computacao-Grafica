@@ -1,0 +1,111 @@
+﻿  ConsoleApplication1.cpp
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'angle'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): error C2086: 'int GLfloat': redefinição
+  c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): note: consulte a declaração de 'GLfloat'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): error C2146: erro de sintaxe: ';' ausente antes do identificador 'angle1'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2086: 'int GLfloat': redefinição
+  c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): note: consulte a declaração de 'GLfloat'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2146: erro de sintaxe: ';' ausente antes do identificador 'angle2'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): error C3861: 'glClearColor': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C2065: 'GL_DEPTH_TEST': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C3861: 'glEnable': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(24): error C2065: 'GL_COLOR_MATERIAL': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(24): error C3861: 'glEnable': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): error C2065: 'GL_LIGHTING': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): error C3861: 'glEnable': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): error C2065: 'GL_LIGHT0': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): error C3861: 'glEnable': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(27): error C2065: 'GL_DEPTH_TEST': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(27): error C3861: 'glEnable': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C2065: 'GL_SMOOTH': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C3861: 'glShadeModel': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(42): error C2065: 'GL_TRIANGLE_STRIP': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(42): error C3861: 'glBegin': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(44): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(48): error C3861: 'glNormal3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): error C3861: 'glVertex3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): error C3861: 'glNormal3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(52): error C3861: 'glVertex3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): error C3861: 'glEnd': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(59): error C2146: erro de sintaxe: ';' ausente antes do identificador 'luzAmbiente'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(59): error C2065: 'luzAmbiente': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(60): error C2146: erro de sintaxe: ';' ausente antes do identificador 'luzDifusa'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(60): error C2065: 'luzDifusa': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(61): error C2146: erro de sintaxe: ';' ausente antes do identificador 'luzEspecular'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(61): error C2065: 'luzEspecular': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): error C2146: erro de sintaxe: ';' ausente antes do identificador 'posicaoLuz'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): error C2065: 'posicaoLuz': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(63): error C2146: erro de sintaxe: ';' ausente antes do identificador 'especularidade'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(63): error C2065: 'especularidade': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(64): error C2065: 'GLint': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(64): error C2146: erro de sintaxe: ';' ausente antes do identificador 'especMaterial'
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(64): error C2065: 'especMaterial': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C2065: 'GL_FRONT': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C2065: 'GL_SPECULAR': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C2065: 'especularidade': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C3861: 'glMaterialfv': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(66): error C2065: 'GL_FRONT': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(66): error C2065: 'GL_SHININESS': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(66): error C2065: 'especMaterial': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(66): error C3861: 'glMateriali': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(67): error C2065: 'GL_LIGHT_MODEL_AMBIENT': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(67): error C2065: 'luzAmbiente': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(67): error C3861: 'glLightModelfv': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C2065: 'GL_LIGHT0': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C2065: 'GL_AMBIENT': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C2065: 'luzAmbiente': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C3861: 'glLightfv': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(69): error C2065: 'GL_LIGHT0': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(69): error C2065: 'GL_DIFFUSE': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(69): error C2065: 'luzDifusa': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(69): error C3861: 'glLightfv': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): error C2065: 'GL_LIGHT0': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): error C2065: 'GL_SPECULAR': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): error C2065: 'luzEspecular': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): error C3861: 'glLightfv': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2065: 'GL_LIGHT0': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2065: 'GL_POSITION': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2065: 'posicaoLuz': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C3861: 'glLightfv': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(76): error C2065: 'GL_COLOR_BUFFER_BIT': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(76): error C2065: 'GL_DEPTH_BUFFER_BIT': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(76): error C3861: 'glClear': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(78): error C2065: 'GL_MODELVIEW': identificador não declarado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(78): error C3861: 'glMatrixMode': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(79): error C3861: 'glLoadIdentity': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(82): error C3861: 'gluLookAt': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(87): error C3861: 'glPushMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(88): error C3861: 'glTranslatef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): error C3861: 'glScalef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(90): error C3861: 'glColor3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(91): error C3861: 'glutSolidCube': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(92): error C3861: 'glPopMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(95): error C3861: 'glPushMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(96): error C3861: 'glTranslatef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(97): error C3861: 'glScalef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(98): error C3861: 'glColor3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(99): error C3861: 'glutSolidCube': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(100): error C3861: 'glPopMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(102): error C3861: 'glPushMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(103): error C3861: 'glTranslatef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(104): error C3861: 'glScalef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): error C3861: 'glColor3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(106): error C3861: 'glutSolidCube': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(107): error C3861: 'glPopMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(110): error C3861: 'glPushMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(111): error C3861: 'glTranslatef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(112): error C3861: 'glColor3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(113): error C3861: 'glScalef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(114): error C3861: 'glutSolidCube': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(115): error C3861: 'glPopMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(118): error C3861: 'glPushMatrix': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(119): error C3861: 'glTranslatef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(120): error C3861: 'glColor3f': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(121): error C3861: 'glScalef': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(122): error C3861: 'glutSolidCube': identificador não encontrado
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(122): fatal error C1003: contador de erros excede 100; interrompendo compilação

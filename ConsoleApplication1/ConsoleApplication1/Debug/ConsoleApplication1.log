@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(58): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+c:\users\humbe\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(59): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+  ConsoleApplication1.vcxproj -> C:\Users\humbe\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\humbe\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
